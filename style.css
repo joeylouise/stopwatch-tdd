@@ -32,3 +32,8 @@ body {
 .controls {
   height: 10%;
 }
+
+.controls__button {
+  height: 100%;
+  width: 33%;
+}

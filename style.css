@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  border: 1px solid green;
+  height: 100%;
+}
+
+.main {
+  border: 1px solid red;
+}
+
+.display {
+  height: 90%;
+}
+
+.controls {
+  height: 10%;
+}

@@ -1,0 +1,39 @@
+* {
+  font-size: inherit;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  height: 100%;
+}
+
+body {
+  border: 1px solid green;
+  height: 100%;
+}
+
+.main {
+  border: 1px solid red;
+  height: 100%;
+}
+
+.display {
+  height: 90%;
+}
+
+.display__time {
+  font-size: 3rem;
+  width: 100%;
+}
+
+.controls {
+  height: 10%;
+}
+
+.controls__button {
+  height: 100%;
+  width: 33%;
+}

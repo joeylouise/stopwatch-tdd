@@ -14,6 +14,9 @@ To develop a stopwatch with the following functionality:
 
 - Create an EPIC issue, to create a Stopwatch
 - Start from the beginning and split each element into an issue
+- Create basic HTML structure and styling
+- Create QUnit HTML structure
+  - Ensure to put any HTML that JS relies on in the div with the ID qunit-fixture.
 
 ##Stretch goals
 - BlanketJs

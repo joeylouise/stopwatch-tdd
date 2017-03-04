@@ -12,7 +12,8 @@ To develop a stopwatch with the following functionality:
 
 ##How
 
-- Start from the beginning and split each element into an issue.
+- Create an EPIC issue, to create a Stopwatch
+- Start from the beginning and split each element into an issue
 
 ##Stretch goals
 - BlanketJs
